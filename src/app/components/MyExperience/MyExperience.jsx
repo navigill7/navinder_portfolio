@@ -57,7 +57,7 @@ const MyExperience = () => {
             date="Apr 2025 - Jul 2025"
           />
           <TimelineItem
-            title="Tiger Analytics (Bangalore)"
+            title="Tiger Analytics (Banglore)"
             subtitle="Jr. DevOps Engineer"
             description="Currently working on deploying projects on AWS EKS and another Kubernetes environment, leveraging CI/CD pipelines and infrastructure automation to ensure scalable and efficient deployments."
             date="May 2025 - Present"
